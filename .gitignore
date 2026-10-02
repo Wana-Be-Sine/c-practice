@@ -1,0 +1,16 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+
+# VSCode 临时文件
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+
+# 系统文件
+Thumbs.db
+.DS_Store
