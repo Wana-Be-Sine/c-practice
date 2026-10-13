@@ -1,6 +1,5 @@
-<img width="30" height="30" alt="chouchou" src="https://github.com/user-attachments/assets/a223950d-fd46-411a-90f8-70303f513328" /># c-practice
-
----![funny](./images/chouchou.gif)
+# #c-practice
+<img width="30" height="30" alt="chouchou" src="https://github.com/user-attachments/assets/a223950d-fd46-411a-90f8-70303f513328" /> <img width="30" height="30" alt="chouchou" src="https://github.com/user-attachments/assets/a223950d-fd46-411a-90f8-70303f513328" /> <img width="30" height="30" alt="chouchou" src="https://github.com/user-attachments/assets/a223950d-fd46-411a-90f8-70303f513328" />
 
 > 我的 C 语言练习记录 · My C language practice log
 
