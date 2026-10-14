@@ -10,5 +10,4 @@ int main(void)
     printf("%d\n", long_len);
     printf("%d\n", short_len);
     printf("%d\n", char_len);
-    return 0;
 }

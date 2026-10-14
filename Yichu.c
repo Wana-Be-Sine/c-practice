@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
     unsigned int num1 = 4294967295;
     short num2 = 32767;
@@ -7,5 +7,4 @@ int main()
     printf("num1=%u and not %d \n",num1,num1);
     printf("num2=%hd and %d \n",num2,num2);
     printf("num3=%ld and not %hd \n",num3,num3);
-    return 0;
 }
