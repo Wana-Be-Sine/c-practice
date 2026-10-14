@@ -5,6 +5,6 @@ int main()
     printf("WXY\n");//我！
     float a;
     a = 18.2;
-    printf("%.1f\n",a);//:)
+    printf("%0.1f\n",a);//:)
     return 0;
 }

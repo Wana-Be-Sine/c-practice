@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(void)
 {
-    int A;
-    int B;
-    scanf("%d",&A);
-    scanf("%d",&B);
-    printf("%d",A+B);
+    long int A;
+    long int B;
+    scanf("%ld",&A);
+    scanf("%ld",&B);
+    printf("%ld",A+B);
 }
