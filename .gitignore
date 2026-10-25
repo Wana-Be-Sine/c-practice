@@ -11,6 +11,9 @@
 !.vscode/launch.json
 !.vscode/c_cpp_properties.json
 
+# 测试用
+empty.c
+
 # 系统文件
 Thumbs.db
 .DS_Store
