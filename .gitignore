@@ -11,6 +11,8 @@
 !.vscode/launch.json
 !.vscode/c_cpp_properties.json
 
+*.txt
+
 # 测试用
 empty.c
 

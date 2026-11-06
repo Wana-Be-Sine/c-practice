@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(void)
 {
     int age;
-    scanf("%d",&age);
+    scanf("%d", &age);
     int days;
     days = age * 365;
-    printf("Age: %d, Days: %d",age,days);
+    printf("Age: %d, Days: %d", age, days);
 }
