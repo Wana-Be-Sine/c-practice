@@ -3,7 +3,6 @@ int main(void)
 {
     int age;
     scanf("%d", &age);
-    int days;
-    days = age * 365;
-    printf("Age: %d, Days: %d", age, days);
+    long long days = (long long)age * 365;
+    printf("Age: %d, Days: %lld", age, days);
 }

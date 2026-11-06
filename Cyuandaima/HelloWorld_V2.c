@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main(void)
 {
     printf("Hello,world!\n");
     printf("Welcome to the C language world!\n");
