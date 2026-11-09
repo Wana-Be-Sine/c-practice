@@ -134,6 +134,7 @@ mkdir -p build
 gcc -std=c17 -Wall -Wextra -Wpedantic Cyuandaima/HelloWorld.c -o build/HelloWorld
 ./build/HelloWorld
 ```
+（其实我看不懂这是什么意思）
 
 可把文件名替换为表格中的其他 `.c` 文件。
 
